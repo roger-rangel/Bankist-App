@@ -9,7 +9,7 @@ In order to log in use the following credentials:
 **PIN**: 1111 / 2222
 
 # Tools Used
-*HTML5/CSS3, JS (DOM Manipulation)
+*HTML5 / CSS3, JS (DOM Manipulation)
 
 ### Feel free to clone and play around
 
